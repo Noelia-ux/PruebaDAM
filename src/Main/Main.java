@@ -17,7 +17,7 @@ public class Main {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        Principal start = new Principal();
-        start.setVisible(true);
+        Principal start = new Principal();//modificación en el fichero
+        start.setVisible(false);
     }
 }
