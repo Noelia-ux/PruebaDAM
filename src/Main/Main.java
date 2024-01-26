@@ -18,6 +18,7 @@ public class Main {
      */
     public static void main(String[] args) {
         Principal start = new Principal();//modificación en el fichero
+        start.setVisible(true);//nueva modificación de ventana
         start.setVisible(false);
     }
 }
